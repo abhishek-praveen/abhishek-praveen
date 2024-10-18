@@ -55,9 +55,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Penetration%20Testing-FF3E00?&style=for-the-badge&logo=bug&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-FFA500?&style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash%20Scripting-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/-OSINT-008080?&style=for-the-badge&logo=searchenginemonitoring&logoColor=white" />
+
 
 
 </div>
@@ -97,6 +100,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 [[CVE-2024-41597] Cross-Site Request Forgery (CSRF) in ProcessWire CMS v.3.0.229](https://blog.defensiumlabs.com/cve-2024-41597-csrf-in-processwire-cms/)
 
+
+![](https://komarev.com/ghpvc/?username=abhishek-praveen)
 <!-- https://www.linkedin.com/posts/defensiumlabs_cve-2024-41597-cross-site-request-forgery-activity-7225061164609634305-5Nsb?utm_source=share&utm_medium=member_desktop -->
 
 <!-- ## Socials -->
