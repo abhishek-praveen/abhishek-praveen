@@ -84,15 +84,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://www.credly.com/badges/85d5f0a5-ac32-418d-add6-257f12c6df66">
 <img src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" alt="Alt text" style="margin-right: 20px" width="100"/></a>
-<img src="https://secops.group/wp-content/uploads/2023/01/certified-appsec-pentester.png" alt="Alt text" width="100"/>
+<img src="https://secops.group/wp-content/uploads/2023/01/certified-appsec-pentester.png" alt="Alt text" style="margin-right: 20px" width="100"/>
+<img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" alt="Alt text"  width="100"/>
+
 
 </div>
 
 
 ## CVEs and HOFs
 
-- CVE-2024-41597 
-- Hall of Fame in Accenture
+- [CVE-2024-41597](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41597)
+- [Hall of Fame in Accenture]((https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments))
 
 ## Blogs
 
