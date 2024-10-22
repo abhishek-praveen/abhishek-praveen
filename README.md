@@ -94,11 +94,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## CVEs and HOFs
 
 - [CVE-2024-41597](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41597)
-- [Hall of Fame in Accenture]((https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments))
+- [Hall of Fame in Accenture](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments)
 
 ## Blogs
 
-[The SecOps Group Certified Appsec Pentester (CAPen) Exam Review ](https://blog.defensiumlabs.com/secops-certified-appsec-pentester-capen-exam-a-comprehensive-review/)
+[The SecOps Group Certified Appsec Pentester (CAPen) Exam Review](https://blog.defensiumlabs.com/secops-certified-appsec-pentester-capen-exam-a-comprehensive-review/)
 
 [[CVE-2024-41597] Cross-Site Request Forgery (CSRF) in ProcessWire CMS v.3.0.229](https://blog.defensiumlabs.com/cve-2024-41597-csrf-in-processwire-cms/)
 
