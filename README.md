@@ -103,8 +103,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [[CVE-2024-41597] Cross-Site Request Forgery (CSRF) in ProcessWire CMS v.3.0.229](https://blog.defensiumlabs.com/cve-2024-41597-csrf-in-processwire-cms/)
 
 
-![](https://komarev.com/ghpvc/?username=abhishek-praveen)
+
 <!-- https://www.linkedin.com/posts/defensiumlabs_cve-2024-41597-cross-site-request-forgery-activity-7225061164609634305-5Nsb?utm_source=share&utm_medium=member_desktop -->
 
 <!-- ## Socials -->
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@p3g4sus/30-nites-of-code)  
+  ![@p3g4sus #30NitesOfCode](https://www.codedex.io/api/petStatus?user=p3g4sus)
+
+![](https://komarev.com/ghpvc/?username=abhishek-praveen)
