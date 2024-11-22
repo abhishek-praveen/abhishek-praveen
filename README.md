@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- [Brief Introduction - Remove this afterwards] -->
 
-I am an Engineering  graduate with a  strong passion for Cyber Security and around 2 years of industry experience  , primarily in Web Security. Currently , I work as a Security Engineer Trainee at [Defensium Labs](https://www.linkedin.com/company/defensiumlabs).
+I am an Engineering  graduate with a  strong passion for Cyber Security and around 2 years of industry experience  , primarily in Web Security. Currently , I work as a Security Analyst at [Defensium Labs](https://www.linkedin.com/company/defensiumlabs).
 
 I love to create content around Cyber Security and play CTFs . At the moment , I am focused on growing my Web Security skills while also building a strong foundation in API and Mobile Security.
 
