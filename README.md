@@ -97,10 +97,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - [Hall of Fame in Accenture](https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments)
 
 ## Blogs
+### Blogs for Organisations 
+[The SecOps Group Certified Appsec Pentester (CAPen) Exam Review](https://blog.defensiumlabs.com/secops-certified-appsec-pentester-capen-exam-a-comprehensive-review/) (Defensium Labs (2024))
 
-[The SecOps Group Certified Appsec Pentester (CAPen) Exam Review](https://blog.defensiumlabs.com/secops-certified-appsec-pentester-capen-exam-a-comprehensive-review/)
+[[CVE-2024-41597] Cross-Site Request Forgery (CSRF) in ProcessWire CMS v.3.0.229](https://blog.defensiumlabs.com/cve-2024-41597-csrf-in-processwire-cms/) (Defensium Labs (2024))
 
-[[CVE-2024-41597] Cross-Site Request Forgery (CSRF) in ProcessWire CMS v.3.0.229](https://blog.defensiumlabs.com/cve-2024-41597-csrf-in-processwire-cms/)
+### Medium Articles
+[A Beginner’s Road Map on Ethical Hacking](https://medium.com/@p3g4sus/a-beginners-road-map-on-ethical-hacking-8aa83f01dbd1)
+(2020)
+
+[Realizations of a Beginner Bug Bounty Hunter](https://medium.com/@p3g4sus/realizations-of-a-beginner-bug-bounty-hunter-49d95d07d387) (2021)
+
+### Personal Blog 
+[Story of a Simple AEM Misconfiguration Bug](https://abhishek-praveen.github.io/posts/Story-of-a-Simple-AEM-Misconfiguration-Bug/) (2024)
 
 
 
