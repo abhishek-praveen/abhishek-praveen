@@ -117,8 +117,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <!-- ## Socials -->
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@p3g4sus/30-nites-of-code)  
-  ![@p3g4sus #30NitesOfCode](https://www.codedex.io/api/petStatus?user=p3g4sus)
+<!-- ### 30NitesOfCode: -->
+ <!-- [Check out my progress!](https://www.codedex.io/@p3g4sus/30-nites-of-code)  
+  ![@p3g4sus #30NitesOfCode](https://www.codedex.io/api/petStatus?user=p3g4sus) -->
 
 ![](https://komarev.com/ghpvc/?username=abhishek-praveen)
